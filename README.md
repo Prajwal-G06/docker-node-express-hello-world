@@ -26,6 +26,7 @@ You can run the app either with **Docker** directly or using **Docker Compose**.
    cd node-express-hello-world
 
 2. **Build the Docker image**
+  ```bash
   docker build -t express-hello-docker .
   docker run -d -p 3000:3000 --name express-app express-hello-docker
 
