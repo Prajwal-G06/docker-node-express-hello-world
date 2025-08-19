@@ -65,7 +65,8 @@ You can run the app either with **Docker** directly or using **Docker Compose**.
 ### 🐳 Run with Docker Compose
 
 3. **Start the app using Compose**
-  docker-compose up --build -d
+   ```bash
+   docker-compose up --build -d
 
 ## 🌍 Access the app here
 [Visit the live site here](https://master.d3ovtu5k2o2wak.amplifyapp.com/)
