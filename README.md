@@ -30,16 +30,5 @@ You can run the app either with **Docker** directly or using **Docker Compose**.
   docker build -t express-hello-docker .
   docker run -d -p 3000:3000 --name express-app express-hello-docker
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/eMahtab/node-express-hello-world.git
-   cd node-express-hello-world
 ---
 
-### 🐳 Run with Docker Compose
-
-3. **Start the app using Compose**
-  docker-compose up --build -d
-
-## 🌍 Access the app here
-[Visit the live site here](https://master.d3ovtu5k2o2wak.amplifyapp.com/)
