@@ -30,5 +30,3 @@ You can run the app either with **Docker** directly or using **Docker Compose**.
   docker build -t express-hello-docker .
   docker run -d -p 3000:3000 --name express-app express-hello-docker
 
----
-
