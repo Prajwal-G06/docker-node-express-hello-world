@@ -69,4 +69,4 @@ You can run the app either with **Docker** directly or using **Docker Compose**.
    docker-compose up --build -d
 
 ## 🌍 Access the app here
-[Visit the live site here](https://master.d3ovtu5k2o2wak.amplifyapp.com/)
+[Visit the live site here](http://ec2-13-201-77-129.ap-south-1.compute.amazonaws.com:3000/)
